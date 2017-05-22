@@ -1,6 +1,6 @@
-# Dracula for [Terminal.app](http://www.apple.com/osx/apps)
+# Dracula for [Terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS))
 
-> A dark theme for [Terminal.app](http://www.apple.com/osx/apps).
+> A dark theme for [Terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS)).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/terminal.png)
 
