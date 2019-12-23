@@ -2,7 +2,7 @@
 
 > A dark theme for [Terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS)).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/terminal.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
