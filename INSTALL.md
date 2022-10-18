@@ -21,8 +21,9 @@ Download using the [GitHub .zip download](https://github.com/dracula/terminal-ap
 
 #### Activating theme
 
-1.  _Terminal > Settings Tab_
-2.  Click _"Gear" icon_
-3.  Click _Import..._
-4.  Select the `Dracula.terminal` file
+1.  _Terminal > Preferences_
+2.  Click _Profiles tab_
+3.  In the left pane at the bottom, click _"...", then Import..._
+4.  Browse to and select the `Dracula.terminal` file
 5.  Click _Default_
+6.  Restart all open terminals
