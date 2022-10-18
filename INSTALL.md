@@ -6,6 +6,15 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
     git clone https://github.com/dracula/terminal-app.git
 
+#### Install using [Homebrew](https://brew.sh)
+
+Easily install from [dracula/homebrew-install](https://github.com/dracula/homebrew-install/blob/master/Casks/dracula-terminal.rb):
+
+``` sh
+brew tap dracula/install
+brew install --cask dracula-terminal
+```
+
 #### Install manually
 
 Download using the [GitHub .zip download](https://github.com/dracula/terminal-app/archive/master.zip) option and unzip them.
