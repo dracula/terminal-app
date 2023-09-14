@@ -23,8 +23,9 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/terminal-
 
 #### Activating theme
 
-1.  _Terminal > Settings Tab_;
-2.  Click _"Gear" icon_;
-3.  Click _Import..._;
-4.  Select the `Dracula.terminal` file;
-5.  Click _Default_. 💜
+1.  _Terminal > Settings_;
+2.  Click _"Profiles" tab_;
+3.  On the left hand side under the list of themes, click "..." button;
+4.  Click _Import..._;
+5.  Select the `Dracula.terminal` file;
+6.  Click _Default_. 💜
