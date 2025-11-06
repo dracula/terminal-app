@@ -8,7 +8,7 @@ A caveat: this theme customizes (among other things) the colors Terminal.app use
 
 ## Install
 
-All instructions can be found at [draculatheme.com/terminal](https://draculatheme.com/terminal).
+All instructions can be found at [draculatheme.com/terminal](https://draculatheme.com/terminal-app).
 
 ## Team
 
