@@ -10,13 +10,13 @@ git clone https://github.com/dracula/terminal-app.git
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/terminal-app/archive/master.zip) option and unzip them.
+Download using the [GitHub `.zip` download](https://github.com/dracula/terminal-app/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
-1.  _Terminal > Settings_;
-2.  Click _"Profiles" tab_;
-3.  On the left hand side under the list of themes, click "..." button;
-4.  Click _Import..._;
-5.  Select the `Dracula.terminal` file;
-6.  Click _Default_. 💜
+1. Open the **Terminal** `>` _Settings_;
+2. Go to _Profiles tab_;
+3. Click "_..._" below the themes list;
+4. Select _Import..._;
+5. Choose the `Dracula.terminal` (dark) or `Alucard.terminal` (light) file;
+6. Set as _Default_; 💜
